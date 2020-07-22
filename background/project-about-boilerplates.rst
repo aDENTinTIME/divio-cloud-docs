@@ -23,7 +23,7 @@ When a project is created, it will always specify a Boilerplate - even if it's a
 
 Various Boilerplates are provided as defaults. Some provide only basic HTML and CSS,
 whereas more sophisticated ones include advanced frontend tooling: NPM, webpack, Sass and other
-components. It it's also possible to define and reuse your own.
+components. It's also possible to define and reuse your own.
 
 
 .. _built-in-boilerplates:
